@@ -1,0 +1,2 @@
+# stringConstruction_Hackerrank_py
+Solution to hackerrank stringConstruction
